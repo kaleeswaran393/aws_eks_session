@@ -12,3 +12,9 @@ https://dashboard.eventengine.run/
 
 https://www.eksworkshop.com/
 
+
+https://aws.amazon.com/solutions/
+
+
+https://aws.amazon.com/blogs
+
